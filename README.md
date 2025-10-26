@@ -1,4 +1,4 @@
-# Home-Credit-Solution
+# Home-Credit-Final Sumbittion Versions
 1. This competition was initiated by Home Credit Group, an international non-banking financial institution. The goal of this competition is to predict which customers are more likely to default on loans.
 
 2. Feature engineering was conducted based on the competition data. The competition provided 465 native features including personal information (gender, age, education, etc.), consumption records (monthly consumption amount, reasons for consumption restrictions, etc.), and credit card information (issuing bank, level, etc.). We derived the following features based on these characteristics:
